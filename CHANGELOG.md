@@ -1,3 +1,9 @@
+# Changelog
+
+## 0.4.5
+
+* More iOS fixes
+
 ## 0.3.2
 
 * iOS layout fixes
@@ -29,5 +35,3 @@
 ## 0.1.0
 
 * Initial Release
-
-
